@@ -1,0 +1,71 @@
+Tematica: 1
+Proximo turno: Computadora
+Undos: 0
+Datos del jugador
+Elemento 1
+Miembro 1
+(0,0) -> NO IMPACTADA
+(0,1) -> NO IMPACTADA
+(0,2) -> NO IMPACTADA
+(0,3) -> NO IMPACTADA
+Miembro 2
+(2,0) -> NO IMPACTADA
+(2,1) -> NO IMPACTADA
+(2,2) -> NO IMPACTADA
+(2,3) -> NO IMPACTADA
+Elemento 2
+Miembro 1
+(5,0) -> NO IMPACTADA
+Miembro 2
+(7,0) -> NO IMPACTADA
+Miembro 3
+(9,0) -> NO IMPACTADA
+Miembro 4
+(9,2) -> NO IMPACTADA
+Elemento 3
+Miembro 1
+(2,5) -> NO IMPACTADA
+(2,6) -> NO IMPACTADA
+(2,7) -> NO IMPACTADA
+Miembro 2
+(6,4) -> NO IMPACTADA
+(6,5) -> NO IMPACTADA
+(6,6) -> NO IMPACTADA
+Miembro 3
+(4,9) -> NO IMPACTADA
+(4,10) -> NO IMPACTADA
+(4,11) -> NO IMPACTADA
+Datos de la computadora
+Elemento 1
+Miembro 1
+(9,10) -> NO IMPACTADA
+(9,11) -> NO IMPACTADA
+(9,12) -> NO IMPACTADA
+(9,13) -> NO IMPACTADA
+Miembro 2
+(8,1) -> NO IMPACTADA
+(8,2) -> NO IMPACTADA
+(8,3) -> NO IMPACTADA
+(8,4) -> NO IMPACTADA
+Elemento 2
+Miembro 1
+(5,11) -> NO IMPACTADA
+Miembro 2
+(0,4) -> NO IMPACTADA
+Miembro 3
+(1,12) -> NO IMPACTADA
+Miembro 4
+(3,0) -> NO IMPACTADA
+Elemento 3
+Miembro 1
+(7,12) -> NO IMPACTADA
+(7,13) -> NO IMPACTADA
+(7,14) -> NO IMPACTADA
+Miembro 2
+(2,2) -> NO IMPACTADA
+(3,2) -> NO IMPACTADA
+(4,2) -> NO IMPACTADA
+Miembro 3
+(7,6) -> NO IMPACTADA
+(8,6) -> NO IMPACTADA
+(9,6) -> NO IMPACTADA

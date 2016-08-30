@@ -1,0 +1,105 @@
+Tematica: 1
+Proximo turno: Jugador
+Undos: 0
+Datos del jugador
+Elemento 1
+Miembro 1
+(2,0) -> NO IMPACTADA
+(2,1) -> NO IMPACTADA
+(2,2) -> NO IMPACTADA
+(2,3) -> NO IMPACTADA
+Miembro 2
+(4,5) -> NO IMPACTADA
+(5,5) -> NO IMPACTADA
+(6,5) -> NO IMPACTADA
+(7,5) -> NO IMPACTADA
+Elemento 2
+Miembro 1
+(6,10) -> NO IMPACTADA
+Miembro 2
+(0,8) -> NO IMPACTADA
+Miembro 3
+(4,1) -> NO IMPACTADA
+Miembro 4
+(9,2) -> NO IMPACTADA
+Elemento 3
+Miembro 1
+(7,13) -> NO IMPACTADA
+(8,13) -> NO IMPACTADA
+(9,13) -> NO IMPACTADA
+Miembro 2
+(1,14) -> IMPACTADA
+(2,14) -> IMPACTADA
+(3,14) -> IMPACTADA
+Miembro 3
+(9,5) -> NO IMPACTADA
+(9,6) -> NO IMPACTADA
+(9,7) -> NO IMPACTADA
+(0,0) -> AGUA
+(3,2) -> AGUA
+(3,3) -> AGUA
+(6,10) -> AGUA
+(7,1) -> AGUA
+(7,5) -> AGUA
+(7,10) -> AGUA
+(8,2) -> AGUA
+(8,10) -> AGUA
+(9,4) -> AGUA
+(9,10) -> AGUA
+Datos de la computadora
+Elemento 1
+Miembro 1
+(2,0) -> NO IMPACTADA;ya se donde estan sus barcos
+;grabo y veo donde estan
+(2,1) -> NO IMPACTADA
+(2,2) -> NO IMPACTADA
+(2,3) -> NO IMPACTADA
+Miembro 2
+(3,10) -> NO IMPACTADA
+(3,11) -> NO IMPACTADA
+(3,12) -> NO IMPACTADA
+(3,13) -> NO IMPACTADA
+Elemento 2
+Miembro 1
+(8,4) -> NO IMPACTADA
+Miembro 2
+(6,14) -> NO IMPACTADA
+Miembro 3
+(0,11) -> NO IMPACTADA
+Miembro 4
+(5,11) -> NO IMPACTADA
+Elemento 3
+Miembro 1
+(6,2) -> NO IMPACTADA
+(6,3) -> NO IMPACTADA
+(6,4) -> NO IMPACTADA
+Miembro 2
+(1,8) -> NO IMPACTADA
+(2,8) -> NO IMPACTADA
+(3,8) -> NO IMPACTADA
+Miembro 3
+(6,8) -> NO IMPACTADA
+(7,8) -> NO IMPACTADA
+(8,8) -> NO IMPACTADA
+(0,0) -> AGUA
+(0,13) -> AGUA
+(0,14) -> AGUA
+(1,13) -> AGUA
+(1,14) -> DESTRUCCION;jñgjslñjglkdfñjglñsdfjlgfdjglñjsdlñfgjlsñdfjglsñjglñfsjglñsjglñsñl
+(2,13) -> AGUA;aca hacmoes trampa
+(2,14) -> DESTRUCCION
+(3,13) -> AGUA
+(3,14) -> DESTRUCCION
+(4,13) -> AGUA
+(4,14) -> AGUA
+(5,13) -> AGUA
+(6,13) -> AGUA
+(7,10) -> AGUA;casi casi
+;no lo vas a pegar
+(8,5) -> AGUA;oleeeee
+(9,4) -> AGUA;jaskldajl
+;siempre agua rita
+;que fail
+;muy facil
+;comentariosssssssss
+;jasldasjlda
